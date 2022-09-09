@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @student
 - 👀 I’m interested in ..."HACKING"
 - 🌱 I’m currently learning ..."CSE"
-- 💞️ I’m looking to collaborate on ..."GOOD SKIL PERSON"
+- 💞️ I’m looking to collaborate on ..."GOOD SKILL PERSON"
 - 📫 How to reach me ..."CALL ME WORLD'S OLD LANGUAGE"
 
 <!---
